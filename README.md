@@ -1,0 +1,1 @@
+This is the code that I used in my master's thesis project. For this project, I needed to calculate the possible second Chern characters of a given torsion-free coherent sheaf under certain conditions. Results are separated into distinct cases relevant to the problem.
